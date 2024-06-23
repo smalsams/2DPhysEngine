@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/2DPhysEngine/FileContentIndex
+/.vs/2DPhysEngine/v17/Preview
+*.wsuo
+/.vs/2DPhysEngine/v17/DocumentLayout.json
+/.vs
+/out/build/x64-Debug
